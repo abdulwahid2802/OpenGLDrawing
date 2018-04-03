@@ -1,16 +1,19 @@
 ﻿/*
+abduvohid.com
+wahid@sju.ac.kr
 
 Wahid Coding Labs LTD. inc;
 This software belongs to me,
 any illegal use is prohibited,
 don't distribute this software,
-this software is MIT licensed,
+this software is Sejong licensed,
 
 ALL RIGHTS RESERVED.
 
 @COPYRIGHT, 2018.
-*/
 
+https://github.com/abdulwahid2802/OpenGLDrawing.git
+*/
 
 
 
